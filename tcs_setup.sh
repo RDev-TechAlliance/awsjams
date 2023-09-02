@@ -23,4 +23,5 @@ curl -o accurics_linux https://downloads.accurics.com/cli/latest/accurics_linux
 chmod +x accurics_linux
 sudo install accurics_linux /usr/local/bin && rm accurics_linux
 
+git clone https://github.com/tenable/tenablecs_demo.git
 
